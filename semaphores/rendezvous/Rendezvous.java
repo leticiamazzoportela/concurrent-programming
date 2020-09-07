@@ -1,7 +1,7 @@
 import java.util.concurrent.*;
 
 /**
- * Exercise 02 - Rendezvous
+ * Rendezvous
  *
  * @author Letícia Mazzo Portela
  * @since Sep/2020

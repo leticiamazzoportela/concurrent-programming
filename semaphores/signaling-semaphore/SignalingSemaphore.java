@@ -1,7 +1,7 @@
 import java.util.concurrent.*;
 
 /**
- * Exercise 01 - SignalingSemaphore
+ * SignalingSemaphore
  *
  * @author Letícia Mazzo Portela
  * @since Sep/2020

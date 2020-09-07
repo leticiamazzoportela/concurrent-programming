@@ -1,7 +1,7 @@
 import java.util.concurrent.*;
 
 /**
- * Exercise 03 - Mutex
+ * Mutex
  *
  * @author Letícia Mazzo Portela
  * @since Sep/2020

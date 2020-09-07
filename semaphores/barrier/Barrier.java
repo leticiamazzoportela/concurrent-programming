@@ -1,7 +1,7 @@
 import java.util.concurrent.*;
 
 /**
- * Exercise 05 - Barrier
+ * Barrier
  *
  * @author Letícia Mazzo Portela
  * @since Sep/2020

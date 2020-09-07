@@ -1,7 +1,7 @@
 import java.util.concurrent.*;
 
 /**
- * Exercise 04 - Multiplex
+ * Multiplex
  *
  * @author Letícia Mazzo Portela
  * @since Sep/2020
