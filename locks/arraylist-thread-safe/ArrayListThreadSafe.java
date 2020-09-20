@@ -70,7 +70,7 @@ class Reader extends Thread {
         while (true) {
             try {
                 System.out.println("Thread " + name + " is reading...");
-                System.out.println("Thread " + name + ": data contains the value " + value + "? " + alts.contains(7));
+                System.out.println("Thread " + name + ": data contains the value " + value + "? " + alts.contains(value));
                 System.out.println("Thread " + name + ": data size " + alts.size());
     
                 Thread.sleep(3000);
